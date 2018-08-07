@@ -94,3 +94,6 @@ body {
   background-color: #7d97ad;
   height: 2px;
 }
+
+/*styling for media screens*/
+@media screen and (min-width: 300px) and (max-width: 1440px){}
