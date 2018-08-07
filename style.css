@@ -86,3 +86,11 @@ body {
   padding: 6px;
   margin: 6px;
 }
+
+/*styling for horizontal line*/
+
+.solid {
+  width: 99%;
+  background-color: #7d97ad;
+  height: 2px;
+}
